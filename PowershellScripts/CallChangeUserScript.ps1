@@ -1,0 +1,2 @@
+﻿#.\changeUser.ps1 –UserName .\Administrator –Password admPwd –Service ‘BTSSVC%’ –ServerN ServerA –SecondsToWait 2
+.\changeUser.ps1 –UserName .\Administrator –Password admPwd –Service ‘BTSSVC%’ –ServerN ServerA –SecondsToWait 2

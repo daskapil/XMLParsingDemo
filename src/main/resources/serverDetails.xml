@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+		<serverName>server1</serverName>
+		<serviceAccount>user1</serviceAccount>
+		<secondsToWait>5</secondsToWait>
+		<services>
+			<service>ser1</service>
+			<service>ser2</service>
+			<service>ser3</service>
+			<service>ser4</service>
+		</services>
+	</server>
+	<server>
+		<serverName>server2</serverName>
+		<serviceAccount>user2</serviceAccount>
+		<secondsToWait>5</secondsToWait>
+		<services>
+			<service>ser1</service>
+			<service>ser2</service>
+			<service>ser3</service>
+			<service>ser4</service>
+		</services>
+	</server>
+</servers>
